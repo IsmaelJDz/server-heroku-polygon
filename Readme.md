@@ -2,7 +2,7 @@
 
 ![App capture](./.static-files/PolygomMap.png)
 
-[see aplication](https://fullstack-mern.netlify.app/)
+[see aplication](https://polygonsapp.netlify.app/)
 
 -- Technologies
 Node<br>
